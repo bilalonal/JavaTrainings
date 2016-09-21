@@ -10,7 +10,5 @@ public class stringScan {
 	System.out.println("Enter a name: ");
 	name = bilal.next();
 	System.out.println("Your name is "+ name);
-	
-	
 	}
 }
